@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Areca Palm",
+    "image": "./images/img (1).jpg",
+    "price": 25.99,
+    "description": "A popular indoor plant with feathery, arching fronds that thrive in indirect light."
+  },
+  {
+    "name": "Snake Plant",
+    "image": "./images/img (2).jpg",
+    "price": 19.99,
+    "description": "Low-maintenance plant with upright, sword-like leaves; great for air purification."
+  },
+  {
+    "name": "Peace Lily",
+    "image": "./images/img (3).jpg",
+    "price": 21.50,
+    "description": "Known for its white blooms and air-purifying qualities; ideal for shaded spaces."
+  },
+  {
+    "name": "Fiddle Leaf Fig",
+    "image": "./images/img (4).jpg",
+    "price": 34.75,
+    "description": "Trendy indoor tree with large, leathery leaves; prefers bright, indirect light."
+  },
+  {
+    "name": "Spider Plant",
+    "image": "./images/img (5).jpg",
+    "price": 15.00,
+    "description": "Easy to care for, with arching green leaves and baby plantlets."
+  },
+  {
+    "name": "Aloe Vera",
+    "image": "./images/img (6).jpg",
+    "price": 12.99,
+    "description": "Succulent with healing gel inside the leaves; needs minimal watering."
+  },
+  {
+    "name": "Money Plant",
+    "image": "./images/img (7).png",
+    "price": 17.45,
+    "description": "Believed to bring prosperity; grows well in water or soil."
+  },
+  {
+    "name": "Rubber Plant",
+    "image": "./images/img (8).png",
+    "price": 29.95,
+    "description": "Glossy-leaved houseplant that can grow quite tall with proper care."
+  },
+  {
+    "name": "Boston Fern",
+    "image": "./images/img (9).png",
+    "price": 18.99,
+    "description": "Lush green fronds make it perfect for hanging baskets in shaded spots."
+  },
+  {
+    "name": "ZZ Plant",
+    "image": "./images/img(10).jpg",
+    "price": 22.00,
+    "description": "Extremely hardy plant with shiny leaves; tolerates low light and neglect."
+  }
+]
