@@ -11,7 +11,8 @@ const Products = () => {
                 }
                 return res.json();
             })
-            .then(data => setData(data))
+            .then(json => setData(json.featured))
+
             .catch(err => console.error("Error fetching products:", err));
     }, []);
 
@@ -24,7 +25,7 @@ const Products = () => {
                     </div>
                     <h2 className='title'>{product.name}</h2>
                     <p className='desc'>{product.description}</p>
-                    <h3 className='price'>${product.price}</h3>
+                    <h3 className='price'>₹{product.price}</h3>
                     <button className='cart-btn'>add to cart</button>
                 </div>
             ))}

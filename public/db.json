@@ -1,62 +1,126 @@
-[
-  {
-    "name": "Areca Palm",
-    "image": "./images/img (1).jpg",
-    "price": 25.99,
-    "description": "A popular indoor plant with feathery, arching fronds that thrive in indirect light."
-  },
-  {
-    "name": "Snake Plant",
-    "image": "./images/img (2).jpg",
-    "price": 19.99,
-    "description": "Low-maintenance plant with upright, sword-like leaves; great for air purification."
-  },
-  {
-    "name": "Peace Lily",
-    "image": "./images/img (3).jpg",
-    "price": 21.50,
-    "description": "Known for its white blooms and air-purifying qualities; ideal for shaded spaces."
-  },
-  {
-    "name": "Fiddle Leaf Fig",
-    "image": "./images/img (4).jpg",
-    "price": 34.75,
-    "description": "Trendy indoor tree with large, leathery leaves; prefers bright, indirect light."
-  },
-  {
-    "name": "Spider Plant",
-    "image": "./images/img (5).jpg",
-    "price": 15.00,
-    "description": "Easy to care for, with arching green leaves and baby plantlets."
-  },
-  {
-    "name": "Aloe Vera",
-    "image": "./images/img (6).jpg",
-    "price": 12.99,
-    "description": "Succulent with healing gel inside the leaves; needs minimal watering."
-  },
-  {
-    "name": "Money Plant",
-    "image": "./images/img (7).png",
-    "price": 17.45,
-    "description": "Believed to bring prosperity; grows well in water or soil."
-  },
-  {
-    "name": "Rubber Plant",
-    "image": "./images/img (8).png",
-    "price": 29.95,
-    "description": "Glossy-leaved houseplant that can grow quite tall with proper care."
-  },
-  {
-    "name": "Boston Fern",
-    "image": "./images/img (9).png",
-    "price": 18.99,
-    "description": "Lush green fronds make it perfect for hanging baskets in shaded spots."
-  },
-  {
-    "name": "ZZ Plant",
-    "image": "./images/img(10).jpg",
-    "price": 22.00,
-    "description": "Extremely hardy plant with shiny leaves; tolerates low light and neglect."
-  }
-]
+{
+  "featured": [
+    {
+      "name": "Areca Palm",
+      "image": "./images/img (1).jpg",
+      "price": 1999,
+      "description": "A popular indoor plant with feathery, arching fronds that thrive in indirect light."
+    },
+    {
+      "name": "Snake Plant",
+      "image": "./images/img (2).jpg",
+      "price": 1499,
+      "description": "Low-maintenance plant with upright, sword-like leaves; great for air purification."
+    },
+    {
+      "name": "Peace Lily",
+      "image": "./images/img (3).jpg",
+      "price": 2150,
+      "description": "Known for its white blooms and air-purifying qualities; ideal for shaded spaces."
+    },
+    {
+      "name": "Fiddle Leaf Fig",
+      "image": "./images/img (4).jpg",
+      "price": 1575,
+      "description": "Trendy indoor tree with large, leathery leaves; prefers bright, indirect light."
+    },
+    {
+      "name": "Spider Plant",
+      "image": "./images/img (5).jpg",
+      "price": 1499,
+      "description": "Easy to care for, with arching green leaves and baby plantlets."
+    },
+    {
+      "name": "Aloe Vera",
+      "image": "./images/img (6).jpg",
+      "price": 1299,
+      "description": "Succulent with healing gel inside the leaves; needs minimal watering."
+    },
+    {
+      "name": "Money Plant",
+      "image": "./images/img (7).png",
+      "price": 1745,
+      "description": "Believed to bring prosperity; grows well in water or soil."
+    },
+    {
+      "name": "Rubber Plant",
+      "image": "./images/img (8).png",
+      "price": 2995,
+      "description": "Glossy-leaved houseplant that can grow quite tall with proper care."
+    },
+    {
+      "name": "Boston Fern",
+      "image": "./images/img (9).png",
+      "price": 1899,
+      "description": "Lush green fronds make it perfect for hanging baskets in shaded spots."
+    },
+    {
+      "name": "ZZ Plant",
+      "image": "./images/img(10).jpg",
+      "price": 2200,
+      "description": "Extremely hardy plant with shiny leaves; tolerates low light and neglect."
+    }
+  ],
+  "plant": [
+    {
+      "name": "Calathea Orbifolia",
+      "image": "./images/img (11).jpg",
+      "price": 2780,
+      "description": "Striking striped leaves that curl at night; perfect for low-light environments."
+    },
+    {
+      "name": "Bird of Paradise",
+      "image": "./images/img (12).jpg",
+      "price": 3999,
+      "description": "Tropical plant with large leaves; makes a bold indoor statement."
+    },
+    {
+      "name": "Chinese Evergreen",
+      "image": "./images/img (13).jpg",
+      "price": 2050,
+      "description": "Attractive variegated foliage; thrives even with minimal light and care."
+    },
+    {
+      "name": "Jade Plant",
+      "image": "./images/img (14).jpg",
+      "price": 1625,
+      "description": "Symbol of good luck and prosperity; fleshy oval-shaped leaves."
+    },
+    {
+      "name": "Philodendron Heartleaf",
+      "image": "./images/img (15).jpg",
+      "price": 1400,
+      "description": "Charming vine with heart-shaped leaves; great for hanging or shelves."
+    },
+    {
+      "name": "Dracaena Marginata",
+      "image": "./images/img (16).jpg",
+      "price": 2499,
+      "description": "Spiky upright leaves with red edges; adds a sculptural look to interiors."
+    },
+    {
+      "name": "Parlor Palm",
+      "image": "./images/img (17).jpg",
+      "price": 2375,
+      "description": "Compact palm ideal for corners and tabletops; thrives in low light."
+    },
+    {
+      "name": "Oxalis Triangularis",
+      "image": "./images/img (18).jpg",
+      "price": 1920,
+      "description": "Also known as purple shamrock; its deep purple leaves fold up at night."
+    },
+    {
+      "name": "Croton Petra",
+      "image": "./images/img (19).jpg",
+      "price": 2640,
+      "description": "Vivid multicolored leaves bring bold energy to indoor spaces."
+    },
+    {
+      "name": "Maidenhair Fern",
+      "image": "./images/img (20).png",
+      "price": 1850,
+      "description": "Delicate, lace-like foliage; perfect for bathrooms or humid areas."
+    }
+  ]
+}

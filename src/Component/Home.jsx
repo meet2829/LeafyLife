@@ -33,7 +33,7 @@ const Home = () => {
                             <li className="logo">Leafy<span>Life</span></li>
                             <Link to={'/Store'}>Store</Link>
                             <Link to={'/Contact'}>Contact</Link>
-                            <Link to={'/Blog'}>Blog</Link>
+                            
                         </ul>
                     </nav>
                 </div>
@@ -44,8 +44,7 @@ const Home = () => {
                 <div className="hero-text">
                     <h1>Houseplant<span>The Perfect Choice.</span></h1>
                     <p>The snake plant (Sansevieria trifasciata), also known as mother-in-law's tongue, is a popular houseplant admired for its striking, upright leaves and its exceptional hardiness. Ideal for beginners, it thrives in a variety of light conditions, from low to bright indirect light, and requires minimal watering—only when the soil is completely dry. </p>
-                    <a href="#" className="hero-btn">Shop Now →</a>
-                    <div className="pagination">⟨ 1/3 ⟩</div>
+                    <a href='./Store'><button className="shop-btn">Shop Now →</button></a>
                 </div>
 
                 <div className="hero-img">
@@ -120,10 +119,6 @@ const Home = () => {
                 </div>
             </div>
 </div>
-            
-
-
-
     
             <div className='banner'>
             <Banner />
@@ -161,7 +156,7 @@ const Home = () => {
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} LeafyLife. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} LeafyLife. Created by Meet Kanani</p>
       </div>
     </footer>
    
